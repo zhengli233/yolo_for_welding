@@ -9,11 +9,11 @@ YOLO（YOU ONLY LOOK ONCE）是目标检测神经网络中比较著名的一个�
 
 ### 已经完成的部分
 可行性验证已完成
-![](/images/predictions.jpg)
-![](/images/predictions1.jpg)
-![](/images/predictions2.jpg)
-![](/images/predictions3.jpg)
-![](/images/predictions4.jpg)
+![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions.jpg)
+![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions1.jpg)
+![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions2.jpg)
+![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions3.jpg)
+![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions4.jpg)
 
 ### 未完成的部分
 1. YOLO与其他网络模型的比较
