@@ -10,9 +10,13 @@ YOLO（YOU ONLY LOOK ONCE）是目标检测神经网络中比较著名的一个�
 ### 已经完成的部分
 可行性验证已完成
 ![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions.jpg)
+
 ![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions1.jpg)
+
 ![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions2.jpg)
+
 ![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions3.jpg)
+
 ![](https://github.com/zhengli233/yolo_for_welding/raw/master/开题报告/images/predictions4.jpg)
 
 ### 未完成的部分
@@ -28,5 +32,7 @@ YOLO（YOU ONLY LOOK ONCE）是目标检测神经网络中比较著名的一个�
 
 ### 文献
 [1]裴泽中. 汽车门板焊接部件和焊点识别算法研究[D].华南理工大学,2019.
+
 [2]何智成,王振兴. 基于改进YOLOv2的白车身焊点检测方法[J/OL]. 计算机工程:1-11.https://doi.org/10.19678/j.issn.1000-3428.0056446.
+
 [3]曾健. 基于深度学习的汽车门板焊点识别算法研究及应用[D].华南理工大学,2019.
